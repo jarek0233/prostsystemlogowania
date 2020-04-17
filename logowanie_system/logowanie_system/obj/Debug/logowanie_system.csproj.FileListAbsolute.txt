@@ -1,0 +1,10 @@
+C:\Users\jarek\Desktop\logowanie_system\logowanie_system\bin\Debug\logowanie_system.exe.config
+C:\Users\jarek\Desktop\logowanie_system\logowanie_system\bin\Debug\logowanie_system.exe
+C:\Users\jarek\Desktop\logowanie_system\logowanie_system\bin\Debug\logowanie_system.pdb
+C:\Users\jarek\Desktop\logowanie_system\logowanie_system\obj\Debug\logowanie_system.csprojAssemblyReference.cache
+C:\Users\jarek\Desktop\logowanie_system\logowanie_system\obj\Debug\logowanie_system.Form1.resources
+C:\Users\jarek\Desktop\logowanie_system\logowanie_system\obj\Debug\logowanie_system.Properties.Resources.resources
+C:\Users\jarek\Desktop\logowanie_system\logowanie_system\obj\Debug\logowanie_system.csproj.GenerateResource.cache
+C:\Users\jarek\Desktop\logowanie_system\logowanie_system\obj\Debug\logowanie_system.csproj.CoreCompileInputs.cache
+C:\Users\jarek\Desktop\logowanie_system\logowanie_system\obj\Debug\logowanie_system.exe
+C:\Users\jarek\Desktop\logowanie_system\logowanie_system\obj\Debug\logowanie_system.pdb
